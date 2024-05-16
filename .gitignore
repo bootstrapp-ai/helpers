@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+dev-dist
+build
+types
+.idea
+.github
+
+apps/**/build
+.vite
+app/docs
+.baileys/*
+baileys_store.json
+yarn-error.log
+app/apps/allfortraveler/data/
+server/.baileys
